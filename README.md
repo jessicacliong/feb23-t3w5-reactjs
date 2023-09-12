@@ -4,6 +4,7 @@ Goals:
 - Intro to React 
 - note on creating React apps 
 - CRA vs Vite/others 
+
 - JSX 
   - JS vs JSX 
   - differences to regular HTML 
