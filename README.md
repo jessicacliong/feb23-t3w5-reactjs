@@ -13,10 +13,10 @@ Goals (Tuesday):
 - basic function components
 
 Goals (Thursday):
-	- Component props 
-	- Component children 
-	- Conditional rendering 
-	- Styled components 
+-  Component props 
+- Component children
+- Conditional rendering 
+- Styled components 
 
 
 # Getting Started with Create React App
